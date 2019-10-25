@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/george/Desktop/id2221_project/target/scala-2.11/politcalsentimentanalysis_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/SentimentAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sentiment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/Sentiment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalysis$$anonfun$extractSentiments$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/SentimentAnalysis$$anonfun$extractSentiments$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalysis$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/SentimentAnalysis$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/SentimentAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sentiment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/Sentiment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalysis$$anonfun$extractSentiments$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/SentimentAnalysis$$anonfun$extractSentiments$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PoliticalTweets$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/george/Desktop/id2221_project/target/scala-2.11/classes/PoliticalTweets$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

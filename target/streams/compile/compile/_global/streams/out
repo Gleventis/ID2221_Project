@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/george/Desktop/id2221_project/src/main/scala/PoliticalTweets.scala:8:8: not found: object SentimentAnalysis[0m
+[0m[[0m[31merror[0m] [0m[0mimport SentimentAnalysis._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/george/Desktop/id2221_project/src/main/scala/PoliticalTweets.scala:40:20: Symbol 'type <none>.package.DataFrame' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'value com.datastax.spark.connector.package.dataFrame'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that type DataFrame is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'package.class' was compiled against an incompatible version of <none>.package.[0m
+[0m[[0m[31merror[0m] [0m[0m    val conf = new SparkConf()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/george/Desktop/id2221_project/src/main/scala/PoliticalTweets.scala:63:47: not found: value mainSentiment[0m
+[0m[[0m[31merror[0m] [0m[0m    val sentOne = enPoliticalTweets.map(x => (mainSentiment(x.getText).toString(), 1))[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/george/Desktop/id2221_project/src/main/scala/PoliticalTweets.scala:78:32: value mapWithState is not a member of org.apache.spark.streaming.dstream.DStream[Nothing][0m
+[0m[[0m[31merror[0m] [0m[0m    val stateDStream = sentOne.mapWithState(StateSpec.function(mappingFunc _))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
